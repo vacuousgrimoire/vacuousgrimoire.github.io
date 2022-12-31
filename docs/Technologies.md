@@ -1,3 +1,5 @@
+# Technologies
+
 ## Obsidian
 
 As well as a blog, [[Index|Vacuous Grimoire]] is a living [Obsidian](https://obsidian.md/) vault. This vault can be cloned directly from https://github.com/vacuousgrimoire/vacuousgrimoire.github.io.

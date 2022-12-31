@@ -1,4 +1,4 @@
-# Vacuous Grimoire
+# Home
 
 Vacuous Grimoire is a cross-linked knowledge vault of random tables, homebrew rules, and miscellaneous musings on OSR style gaming, available on the web as a blog format.
 
