@@ -2,6 +2,7 @@ site_name: Vacuous Grimoire
 
 theme:
     name: 'material'
+    logo: assets/logo.png
     palette:
 
     # Light mode
