@@ -2,7 +2,7 @@
 
 ## Obsidian
 
-As well as a blog, [[Index|Vacuous Grimoire]] is a living [Obsidian](https://obsidian.md/) vault. This vault can be cloned directly from https://github.com/vacuousgrimoire/vacuousgrimoire.github.io.
+[[Index|Vacuous Grimoire]] is a [Obsidian](https://obsidian.md/) vault published as a website. This vault can be cloned directly from [https://github.com/vacuousgrimoire/vacuousgrimoire.github.io](https://github.com/vacuousgrimoire/vacuousgrimoire.github.io) for your own use.
 
 ## Github Pages
 
