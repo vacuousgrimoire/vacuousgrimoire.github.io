@@ -1,12 +1,16 @@
 # Home
-Vacuous Grimoire is a cross-linked knowledge vault of random tables, homebrew rules, and miscellaneous musings on OSR style gaming, available on the web as a blog format.
+Vacuous Grimoire is a cross-linked knowledge vault of random tables, homebrew rules, and miscellaneous musings on OSR style gaming.
 
-# Latest Posts
-There are no posts as of yet. Check back on January 1, 2023!
+Throughout 2023, new content of one kind or another should be expected here daily, 
+
+# Week 1: Potions
+Starting off the new year, we have a set of random tables for generating potions as treasure. No magical effects found here, just embellishments to make your potions of healing more memorable.
+
+1. [[containers|Interesting Potion Containers]]
 
 # Links
-- [[Recommendations]]
-- [[Technologies]]
+- [[recommendations]]
+- [[technologies]]
 
 # License
 This work is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0)
