@@ -62,7 +62,7 @@ Once opened, no doubt the color of the potion will be of interest.
 | 81 | pure black |
 | 82 | orange gray |
 | 83 | yellow gray |
-| 84 | gren gay |
+| 84 | green gray |
 | 85 | blue gray |
 | 86 | purple gray |
 | 87 | dark gray |
