@@ -10,6 +10,7 @@ Starting off the new year, we have a set of random tables for generating potions
 2. [[label|Interesting Potion Labels]]
 3. [[color|Interesting Potion Color]]
 4. [[smell|Interesting Potion Smell]]
+5. [[taste|Interesting Potion Taste]]
 
 # Links
 - [[Recommendations]]
