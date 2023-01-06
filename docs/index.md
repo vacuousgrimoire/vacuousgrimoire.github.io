@@ -11,6 +11,7 @@ Starting off the new year, we have a set of random tables for generating potions
 3. [[color|Interesting Potion Color]]
 4. [[smell|Interesting Potion Smell]]
 5. [[taste|Interesting Potion Taste]]
+6. [[signpost|Interesting Potion Danger Signposts]]
 
 # Links
 - [[Recommendations]]
