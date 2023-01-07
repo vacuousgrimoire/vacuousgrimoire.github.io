@@ -16,5 +16,4 @@ jobs:
       - run: pip install pillow cairosvg
       - run: pip install mkdocs-roamlinks-plugin
       - run: pip install mkdocs-mermaid2-plugin
-      - run: pip install mkdocs-social-plugin
       - run: mkdocs gh-deploy --force
