@@ -1,5 +1,9 @@
+---
+description: The taste of a potion, too, provides a hint to its contents, so re-roll or handpick as appropriate. Another good table to roll twice: Predominantly one flavor, with notes of another.
+---
+
 # Interesting Potion Taste
-Another good table to roll twice: Predominantly one flavor, with notes of another.
+The taste of a potion, too, provides a hint to its contents, so re-roll or handpick as appropriate. Another good table to roll twice: Predominantly one flavor, with notes of another.
 
 | d66 | Taste |
 | - | - |

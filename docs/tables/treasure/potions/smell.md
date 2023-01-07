@@ -1,6 +1,10 @@
+---
+description: The potion's smell may provide a clue to its nature, so re-roll or choose as appropriate. Considering taking two results from this table to generate one dominant smell and one undertone.
+---
+
 # Interesting Potion Smell
 
-Feel free to roll on this table twice to generate one dominant smell and one undertone.
+The potion's smell may provide a clue to its nature, so re-roll or choose as appropriate. Considering taking two results from this table to generate one dominant smell and one undertone.
 
 | d66 | Smell |
 | - | - |

@@ -1,3 +1,7 @@
+---
+description: When finding a potion as treasure, the first thing you will notice is its container: its size, material and construction.
+---
+
 # Interesting Potion Container
 When finding a potion as treasure, the first thing you will notice is its container: its size, material and construction.
 

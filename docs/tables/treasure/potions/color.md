@@ -1,3 +1,7 @@
+---
+description: Once opened, no doubt the color of the potion will be of interest.
+---
+
 # Interesting Potion Color
 Once opened, no doubt the color of the potion will be of interest.
 

@@ -1,3 +1,7 @@
+---
+description: Potions found as treasure have a chance of retaining some meaningful label. Depending on the form and nature of the label, characters may or may not be able to interpret its meaning.
+---
+
 # Interesting Potion Label
 Potions found as treasure have a 2-in-6 chance of retaining some meaningful label. Depending on the form and nature of the label, characters may or may not be able to interpret its meaning.
 
