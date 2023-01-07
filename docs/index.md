@@ -1,7 +1,5 @@
 ---
-description: Vacuous Grimoire, as it continues to develop, will be a cross-linked knowledge base of random tables, homebrew rules, and miscellaneous musings on OSR style gaming.
-
-Throughout 2023, new content of one kind or another should be expected here daily.
+description: Vacuous Grimoire, as it continues to develop, will be a cross-linked knowledge base of random tables, homebrew rules, and miscellaneous musings on OSR style gaming. Throughout 2023, new content of one kind or another should be expected here daily.
 ---
 
 # Home
