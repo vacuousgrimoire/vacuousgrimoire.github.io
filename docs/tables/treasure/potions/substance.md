@@ -1,5 +1,6 @@
 ---
 description: The viscosity, clarity, and unusual physical properties of the contents are also readily apparent upon opening the potion.
+status: new
 ---
 
 # Interesting Potion Substance

@@ -1,5 +1,6 @@
 ---
-description: Starting off the new year, we have a set of random tables for generating potions as treasure. No magical effects found here, just embellishments to make your potions of healing more memorable. 
+description: Starting off the new year, we have a set of random tables for generating potions as treasure. No magical effects found here, just embellishments to make your potions of healing more memorable.
+status: new
 ---
 
 # Week 1: Potions
