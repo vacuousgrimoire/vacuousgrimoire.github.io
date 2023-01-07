@@ -9,13 +9,10 @@ Starting off the new year, we have a set of random tables for generating potions
 1. [[container|Interesting Potion Containers]]
 2. [[label|Interesting Potion Labels]]
 3. [[color|Interesting Potion Color]]
-4. [[smell|Interesting Potion Smell]]
-5. [[taste|Interesting Potion Taste]]
-6. [[signpost|Interesting Potion Danger Signposts]]
-
-# Links
-- [[Recommendations]]
-- [[Technologies]]
+4. [[substance|Interesting Potion Substance]]
+5. [[smell|Interesting Potion Smell]]
+6. [[taste|Interesting Potion Taste]]
+7. [[signpost|Interesting Potion Danger Signposts]]
 
 # License
 This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

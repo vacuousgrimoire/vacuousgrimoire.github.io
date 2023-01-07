@@ -1,4 +1,4 @@
-# Interesting Potion Danger Signposts
+# Interesting Potion Danger Signpost
 
 Some referees prefer that deadly dangers like poison or cursed potions betray some sign to warn players. In such cases, consider providing a 5-in-6 chance that such a potion bears a signpost from the table below.
 
