@@ -7,7 +7,7 @@ Vacuous Grimoire, as it continues to develop, will be a cross-linked knowledge b
 
 Throughout 2023, new content of one kind or another should be expected here daily.
 
-# Sunday Play Report
+# Sunday Play Report, 2023-01-08
 
 This week, [[21|The Fighting Mongooses descend into the lower level of the Incandescent Grottoes]].
 
