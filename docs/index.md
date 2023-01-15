@@ -1,26 +1,24 @@
 ---
-description: Vacuous Grimoire, as it continues to develop, will be a cross-linked knowledge base of random tables, homebrew rules, and miscellaneous musings on OSR style gaming. Throughout 2023, new content of one kind or another should be expected here daily.
+description: A gradually growing knowledge base of random tables, homebrew rules, and miscellaneous musings on OSR style gaming. Throughout 2023, new content of one kind or another should be expected here daily.
 ---
 
 # Home
-Vacuous Grimoire, as it continues to develop, will be a cross-linked knowledge base of random tables, homebrew rules, and miscellaneous musings on OSR style gaming.
+A gradually growing knowledge base of random tables, homebrew rules, and miscellaneous musings on OSR style gaming.
 
-Throughout 2023, new content of one kind or another should be expected here daily.
+Throughout 2023, new content of one kind or another should be expected here ~~daily~~ weekly.
+
+# Week 2: Interesting Mundane Treasure
+Continuing in the area of treasures, this week will feature random tables detailing the mundane sort of treasures that can be sold for tidy sums of gold. Note: Due to Sundays play reports, this and future week themes will only have six entries.
+
+1. [[art-objects|Interesting Art Objects]]
 
 # Sunday Play Report, 2023-01-08
 
 This week, [[21|The Fighting Mongooses descend into the lower level of the Incandescent Grottoes]].
 
-# Week 1: Potions
-Starting off the new year, we have a set of random tables for generating potions as treasure. No magical effects found here, just embellishments to make your potions of healing more memorable.
+# Previous Week's Themes
 
-1. [[container|Interesting Potion Containers]]
-2. [[label|Interesting Potion Labels]]
-3. [[color|Interesting Potion Color]]
-4. [[substance|Interesting Potion Substance]]
-5. [[smell|Interesting Potion Smell]]
-6. [[taste|Interesting Potion Taste]]
-7. [[signpost|Interesting Potion Danger Signposts]]
+1. [[01-potions|Interesting Potions]]
 
 # License
 This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
