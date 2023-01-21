@@ -7,10 +7,10 @@ A gradually growing knowledge base of random tables, homebrew rules, and miscell
 
 Throughout 2023, new content of one kind or another should be expected here ~~daily~~ weekly.
 
-# Week 2: Interesting Mundane Treasure
-Continuing in the area of treasures, this week will feature random tables detailing the mundane sort of treasures that can be sold for tidy sums of gold. Note: Due to Sundays play reports, this and future week themes will only have six entries.
+# Sunday Play Report 2023-01-15
+Enjoy this play report in lieu of any articles this week.
 
-1. [[art-objects|Interesting Art Objects]]
+[[22|The Fighting Mongooses brave acid and poison in search of treasure]].
 
 # Sunday Play Report, 2023-01-08
 
