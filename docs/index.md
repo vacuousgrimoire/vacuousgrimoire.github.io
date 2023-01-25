@@ -5,7 +5,10 @@ description: A gradually growing knowledge base of random tables, homebrew rules
 # Home
 A gradually growing knowledge base of random tables, homebrew rules, and miscellaneous musings on OSR style gaming.
 
-Throughout 2023, new content of one kind or another should be expected here ~~daily~~ weekly.
+Throughout 2023, new content of one kind or another should be expected here ~~daily~~ ~~weekly~~ intermittently.
+
+# Injury House Rules
+A [[injuries|simple system for injuries]] in retroclones.
 
 # Sunday Play Report 2023-01-15
 Enjoy this play report in lieu of any articles this week.
@@ -16,7 +19,7 @@ Enjoy this play report in lieu of any articles this week.
 
 This week, [[21|The Fighting Mongooses descend into the lower level of the Incandescent Grottoes]].
 
-# Previous Week's Themes
+# Other Articles
 
 1. [[01-potions|Interesting Potions]]
 
