@@ -1,4 +1,10 @@
+---
+description: As an adventurer, injuries are a fact of life. Whether being impaled by a spear trap, battered by falling rocks, or mauled by a griffon, for some injuries, mere hit point damage may not suffice.
+---
+
 # Injuries
+
+As an adventurer, injuries are a fact of life. Whether being impaled by a spear trap, battered by falling rocks, or mauled by a griffon, for some injuries, mere hit point damage may not suffice.
 
 ## Guidelines
 
