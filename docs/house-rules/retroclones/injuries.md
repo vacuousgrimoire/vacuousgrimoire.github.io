@@ -22,7 +22,7 @@ The Referee may adjudicate the application of injuries as a consequence of succe
 d6|Injury
 -|-
 1|Head injury
-2|Spine injury
+2|Internal injury
 3|Arm injury
 4|Leg injury
 5|Throat injury
