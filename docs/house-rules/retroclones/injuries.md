@@ -37,7 +37,8 @@ Whenever you take a strenuous action, you must save vs. paralysis or be rendered
 ### Arm injury
 On 1-3, injury affects sword arm, 4-6, shield arm. The injured arm is unusable for the duration of the injury.
 
-Leg injury The injured leg cannot bear your weight for the duration of the injury. You must use a crutch or walking stick to walk, and your movement rate cannot exceed 30' (10').
+### Leg injury
+The injured leg cannot bear your weight for the duration of the injury. You must use a crutch or walking stick to walk, and your movement rate cannot exceed 30' (10').
 
 ### Throat injury
 You cannot speak above a hoarse whisper for the duration of the injury. Spellcasting is slightly impaired, foes' saves receive a +2 bonus.
@@ -55,6 +56,4 @@ Recovering from a minor injury requires three days of rest or one use of *cure l
 Recovering from a major injury requires three weeks of rest or one use of *cure serious wounds* or equivalent magical healing.
 
 ## Permanent Injury
-Recovery from a permanent injury is typically impossible.
-
-Treat a permanent head injury as a major head injury, which after recovery, results in an alignment and personality change.
+Recovery from a permanent injury is typically impossible without the intervention of artifacts or miracles.
