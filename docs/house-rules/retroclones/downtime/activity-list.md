@@ -1,3 +1,9 @@
+---
+description: A list of various downtime activities, requirements to perform them, and associated costs in time and money.
+---
+
+# Activity List
+
 | Activity | Time | Requirement |Cost |
 | - | - | - | - |
 | [[befriend-a-person|Befriend a person]] | 1 day | Proper approach | Varies |

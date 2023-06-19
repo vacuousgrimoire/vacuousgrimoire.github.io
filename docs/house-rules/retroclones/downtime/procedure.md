@@ -1,5 +1,5 @@
 ---
-description: A downtime procedure for retroclones.
+description: A simple and flexible downtime procedure for retroclones, allowing players to utilize their resources, build the world, and better prepare for their next dungeoneering expedition.
 ---
 
 # Downtime Procedure
