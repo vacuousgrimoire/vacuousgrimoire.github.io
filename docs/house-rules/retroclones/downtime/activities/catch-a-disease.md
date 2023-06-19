@@ -1,3 +1,5 @@
+# Catch a Disease
+
 1. Yellow Wound Rot: Wounds do not heal naturally but ulcerate quickly and cause a fever (no non-magical healing; -1 penalty to all rolls as long as there are lost hit points).
 
 2. White Weep Skin: large patches all over the skin swell and turn sickly white (max hit points reduced by 1 per level).
@@ -8,6 +10,6 @@
 
 All these diseases may be cured by a physician and 2d4 (minus CON bonus) days of rest, or by magic/super-science. Before they are cured, the attribute damage cannot be healed.
 
-# Credit
+## Credit
 
 https://gregorius21778.wordpress.com/2018/08/13/a-few-diseases-for-osr-rpg/

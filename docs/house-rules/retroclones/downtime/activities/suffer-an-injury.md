@@ -1,3 +1,5 @@
+# Suffer an Injury
+
 The Referee may adjudicate the application of injuries as a consequence of successful attacks or failed saves however they wish, but here are some possible guidelines:
 
 - When a damage roll outcome is maximum, apply a minor injury.

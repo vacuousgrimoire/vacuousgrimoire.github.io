@@ -1,3 +1,5 @@
+# Get a Tattoo
+
 Roll on the tattoo quality, subject, and location tables.
 
 | Quality | Description |

@@ -1,3 +1,11 @@
+# Convert Congregants
+
+## Time
+7 days
+
+## Cost
+1,000+ gp
+
 Characters who have a faith or religion can recruit congregants by performing charitable deeds, sending out missionaries, casting spells charitably on peasants, and constructing shrines and temples. For every 1,000 gold pieces spent a month doing these activities, make a reaction roll. The result indicates how many people join the character's congregation.
 
 If a month passes and no action is taken to gain new followers and characters do not spend at least 1 week ministering to their current congregation, then they will lose 1d4 followers.

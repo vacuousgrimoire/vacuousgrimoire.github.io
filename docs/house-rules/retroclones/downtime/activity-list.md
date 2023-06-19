@@ -5,7 +5,7 @@
 | [[celebrate-a-venture\|Celebrate your return]] | 7 days | Newly returned from adventure | 1d6x100 gp |
 | [[collect-an-arcane-library\|Collect an arcane library]] | 7 days | Adequate space | 1,000+ gp |
 | [[consult-a-sage\|Consult a sage]] | 1+ days | Access to sage | 500+ gp |
-| [[convert-congregants\|Convert congregants]] | 28 days | Faith or fame | 1000+ gp |
+| [[convert-congregants\|Convert congregants]] | 7 days | Faith or fame | 1000+ gp |
 | [[create-magic-or-alchemical-item\|Create an alchemical item]] | 1+ days | Alchemical formula | 50+ gp |
 | [[create-magic-or-alchemical-item\|Create a magical item]] | 1+ days | Magical formula | 500+ gp |
 | [[craft-an-item\|Craft a mundane item]] | 1+ days | Skill and tools | Half retail item cost |

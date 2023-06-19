@@ -1,3 +1,5 @@
+# Commit a Crime
+
 If someone is caught for a crime, consider the judgment. The judge could be swayed to reduce the punishment by spending money on an attorney or a bribe. The character's Charisma also influences the punishment roll. However, strong evidence, previous criminal behavior, and character witnesses will provide penalties for the opposing sides. The Dungeon Master will set the total bonus considering all applicable factors. The crime roll is a reaction roll (2d6), and is modified by the following factors:
 - -6 to +3 for evidence (1d10-7)
 - +1 to +3 for bribes (10 gp, 100 gp, or 1,000 gp)

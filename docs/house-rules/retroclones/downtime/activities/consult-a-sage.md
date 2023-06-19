@@ -1,7 +1,9 @@
-# Time
+# Consult a Sage
+
+## Time
 1+ days
 
-# Overview
+## Overview
 Sages are highbrow academics, peculiar and eccentric, obsessed with their own fields of study. If the characters employ these idiosyncratic and frequently abrasive scholars, they can find out the true answers to any questions. These answers are the guaranteed objective truths of the campaign world. The sage is the in-game mechanism via which the players can force the Dungeon Master to relay true information.
 
 Sages will have be located before they can be consulted, perhaps by Gathering Rumors.
@@ -12,7 +14,7 @@ There are three types of questions sages can answer: general questions, specific
 -   Specific questions are those that can be answered with a single word or short phrase.
 -   Exacting questions provide an answer in as much detail as the players request.
 
-# Asking a Question
+## Asking a Question
 Characters may approach a sage and ask a question. A reaction roll must be made. This affects both the sage's behavior and price.
 
 Check|Reaction|Price Modifier

@@ -1,7 +1,9 @@
-# Time
+
+# Gather Rumors
+## Time
 1 day
 
-# Cost
+## Cost
 10 gp
 
 Check|Effect

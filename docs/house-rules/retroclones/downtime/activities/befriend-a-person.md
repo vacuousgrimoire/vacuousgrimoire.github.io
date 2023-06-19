@@ -1,7 +1,9 @@
-# Time
+# Befriend a Person
+
+## Time
 1 day
 
-# Cost
+## Cost
 Depends
 
 If a character wishes to build a closer relationship with a person, they can try to befriend them.

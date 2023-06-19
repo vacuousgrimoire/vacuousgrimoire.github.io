@@ -1,3 +1,11 @@
+# Research a Topic
+
+## Time
+1+ days
+
+## Cost
+1+ gp
+
 If the character wishes to learn all there is to know about a topic, they can research it.
 - Requires access to books, tutors, gossipmongers, or informants.
 - Situational modifiers may add up to -2 or +2 to chances to gain a success.

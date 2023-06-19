@@ -1,4 +1,6 @@
-Clerics, illusionists, magic-users, and elves can create magic items once they reach name (9th) level. Spellcasting ability is not required for creating alchemical items.
+# Create a Magic or Alchemical Item
+
+Spellcasting classes (and others, if the referee allows) can create magic items once they reach 9th level. Spellcasting ability is not required for creating alchemical items, nor is there any level requirement.
 
 In order to craft magical and alchemical items, characters must first have a formula. Characters may acquire a formula automatically by breaking down an existing item, or by researching. Researching an uncommon item formula costs 100 gp a week, a rare item formula costs 500 gp per week, and a very rare item formula costs 1,000 gp per week. This requires 1d8 weeks of research, -1 if the character's Intelligence is 13+ or -2 weeks if the character's Intelligence is 16+ and -1 for an arcane library greater than 50,000 gp. Research always takes a minimum of one week.
 

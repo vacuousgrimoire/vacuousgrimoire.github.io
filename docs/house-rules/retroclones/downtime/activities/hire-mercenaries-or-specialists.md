@@ -1,1 +1,3 @@
-See OSE Player's Guide p. 112 and 113
+# Hire Mercenaries or Specialists
+
+See core rulebook.

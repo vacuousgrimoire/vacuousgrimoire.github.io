@@ -1,4 +1,12 @@
-Character spend gold on drinking and socializing, telling the tales of their victory or drowning their sorrows over their latest trek.
+# Celebrate a Venture
+
+## Time
+7 days
+
+## Cost
+Varies
+
+Characters spend gold on drinking and socializing, telling the tales of their victory or drowning their sorrows over their latest trek.
 
 First they spend gold per the following table and gain that much experience:
 
