@@ -1,0 +1,1 @@
+See OSE Player's Guide p. 112 and 113
