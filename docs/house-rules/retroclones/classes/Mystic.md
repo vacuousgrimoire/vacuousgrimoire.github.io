@@ -5,7 +5,7 @@ Mystics are adventurers whose study of magical secrets has taught them how to ca
 # XP
 As magic-user.
 
-## Hit Dice
+# Hit Dice
 1d4
 
 # Armour
@@ -46,5 +46,4 @@ The mystic, at 1st level, chooses two domains of magic from the following list. 
 - [[War]]
 
 ## Magic items 
-Mystics are able to use magic scrolls of spells on their spell list. They can also use
-items that may only be used by either arcane or divine spell casters (e.g. magic wands, magic staves). 
+Mystics are able to use magic scrolls of spells on their spell list. They can also use items that may only be used by either arcane or divine spell casters (e.g. magic wands, magic staves). 
