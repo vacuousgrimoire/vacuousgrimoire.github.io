@@ -1,29 +1,29 @@
 # 1st
-Sanctuary
-Shield
-Shillelagh
+- Sanctuary
+- Shield
+- Shillelagh
 
 # 2nd
-Barkskin
-Bless
-Spiritual weapon
+- Barkskin
+- Bless
+- Spiritual weapon
 
 # 3rd
-Haste
-Magical vestment
-Striking
+- Haste
+- Magical vestment
+- Striking
 
 # 4th
-Confusion
-Dig
-Stoneskin
+- Confusion
+- Dig
+- Stoneskin
 
 # 5th
-Faithful hound
-Passwall
-Protection from mundane weapons
+- Faithful hound
+- Passwall
+- Protection from mundane weapons
 
 # 6th
-Blade barrier
-Heroes' feast
-Power word, stun
+- Blade barrier
+- Heroes' feast
+- Power word, stun

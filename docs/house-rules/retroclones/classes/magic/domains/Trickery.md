@@ -1,28 +1,28 @@
 # 1st
-Glamour
-Sleep
-Ventriloquism
+- Glamour
+- Sleep
+- Ventriloquism
 
 # 2nd
-Blindness/deafness
-Blur
-Invisibility
+- Blindness/deafness
+- Blur
+- Invisibility
 
 # 3rd
-Hallucinatory terrain
-Nondetection
-Spectral force
+- Hallucinatory terrain
+- Nondetection
+- Spectral force
 
 # 4th
-Confusion
-Improved invisibility
-Phantasmal killer
+- Confusion
+- Improved invisibility
+- Phantasmal killer
 
 # 5th
-Illusion
-Maze of mirrors
-Seeming
+- Illusion
+- Maze of mirrors
+- Seeming
 # 6th
-Impersonation
-Mislead
-Shades
+- Impersonation
+- Mislead
+- Shades
