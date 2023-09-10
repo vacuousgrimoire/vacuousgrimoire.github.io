@@ -13,11 +13,10 @@
 - Explosive runes
 - Fireball
 
-
 # 4th
 - Black tentacles
 - Ice storm
-Wall of fire
+- Wall of fire
 
 # 5th
 - Cone of cold

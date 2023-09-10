@@ -17,10 +17,12 @@
 - Cure critical wounds
 - Neutralize poison
 - Unfailing endurance
+
 # 5th
 - Create food
 - Raise dead
 - Regenerate
+
 # 6th
 - Heal
 - Heroes' feast

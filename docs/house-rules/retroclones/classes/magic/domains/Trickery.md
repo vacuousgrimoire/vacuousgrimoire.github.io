@@ -22,6 +22,7 @@
 - Illusion
 - Maze of mirrors
 - Seeming
+
 # 6th
 - Impersonation
 - Mislead
