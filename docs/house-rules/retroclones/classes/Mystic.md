@@ -2,6 +2,12 @@
 
 Mystics are adventurers whose study of magical secrets has taught them how to cast spells: they are able to cast a larger number of increasingly powerful spells as they advance in level.
 
+# Requirements
+None.
+
+# Prime Requisite
+INT.
+
 # XP
 As magic-user.
 
