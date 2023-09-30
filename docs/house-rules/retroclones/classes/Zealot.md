@@ -8,14 +8,29 @@ None.
 # Prime Requisite
 WIS.
 
-# Hit Dice
-1d8.
-
+# Level Progression
+|Level|XP|HD|ATK|Death|Wands|Paralysis|Breath Weapon|Spells|
+|---|---|---|---|---|---|---|---|---|
+|1|0      |1d6|0|11|12|14|16|15|
+|2|2250   |2d6|1|10|11|13|15|14|
+|3|4500   |3d6|1|10|11|13|15|14|
+|4|10000  |4d6|2|9|10|12|14|13|
+|5|20000  |5d6|2|9|10|12|14|13|
+|6|40000  |6d6|3|8|9|11|13|12|
+|7|90000  |7d6|3|7|8|10|12|11|
+|8|150000 |8d6|4|7|8|10|12|11|
+|9|300000 |9d6|4|6|7|9|11|10|
+|10|425000|9d6+2*|5|5|6|8|10|9|
+|11|550000|9d6+4*|5|5|6|8|10|9|
+|12|675000|9d6+6*|6|4|5|7|9|8|
+|13|800000|9d6+8*|6|4|5|7|9|8|
+|14|925000|9d6+10*|7|3|5|7|8|7|
+- \* Modifiers from CON no longer apply. 
 # Armour
-Leather, chainmail, shields.
+A zealot can use leather armour, chainmail, and shields.
 
 # Weapons
-One-handed weapons, crossbows.
+A zealot can use one-handed weapons and crossbows, and deals 1d8 damage with these weapons.
 
 # Combat Progression
 As cleric.
@@ -34,12 +49,12 @@ Once per day, a zealot can heal 2 hit points per level by laying their hands on 
 # Tracking
 Zealots can identify and follow tracks. This skill improves as the character gains levels (see the table to the right). Success may be modified by the following factors:
 
-- Soft/hard ground: Increased by 1-in-6 or reduced by up to 3-in-6.
-- Size of group being tracked: Increased by 1-in-6 per every three creatures.
-- Passing through an area where other tracks mingle: Decreased by 3-in-6.
-- Age of tracks: Reduced by 1-in-6 for every 24 hours.
-- Rainfall: Reduced by 1-in-6 per hour.
-- Efforts made to hide tracks: Reduced by 2-in-6. (200 xp).
+- **Soft/hard ground:** Increased by 1-in-6 or reduced by up to 3-in-6.
+- **Size of group being tracked:** Increased by 1-in-6 per every three creatures.
+- **Passing through an area where other tracks mingle:** Decreased by 3-in-6.
+- **Age of tracks:** Reduced by 1-in-6 for every 24 hours.
+- **Rainfall:** Reduced by 1-in-6 per hour.
+- **Efforts made to hide tracks:** Reduced by 2-in-6.
 
 | Level | Tracking |
 | - | - |
@@ -48,6 +63,3 @@ Zealots can identify and follow tracks. This skill improves as the character gai
 | 5-6 | 4-in-6 |
 | 7-9 | 5-in-6 |
 | 10+ | 6-in-6 | 
-
-# Weapon Damage
-A zealot deals 1d8 damage with all weapons.
