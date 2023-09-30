@@ -33,12 +33,6 @@ A zealot can use leather armour, chainmail, and shields.
 # Weapons
 A zealot can use one-handed weapons and crossbows, and deals 1d8 damage with these weapons.
 
-# Combat Progression
-As cleric.
-
-# Saving Throws
-As cleric.
-
 # Righteous Weapons
 A zealot's weapons can hit monsters that can normally only be harmed by silver.
 
@@ -48,7 +42,7 @@ At 4th level or higher, a zealot's weapons can hit monsters that can normally on
 Once per day, a zealot can heal 2 hit points per level by laying their hands on wounded characters. Additionally, a zealot of 6th level or higher may cure disease once per week by laying on hands.
 
 # Tracking
-Zealots can identify and follow tracks. This skill improves as the character gains levels (see the table to the right). Success may be modified by the following factors:
+Zealots can identify and follow tracks. This skill improves as the character gains levels (see table below). Success may be modified by the following factors:
 
 - **Soft/hard ground:** Increased by 1-in-6 or reduced by up to 3-in-6.
 - **Size of group being tracked:** Increased by 1-in-6 per every three creatures.
