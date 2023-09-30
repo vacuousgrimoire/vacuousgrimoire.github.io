@@ -1,6 +1,6 @@
 # Mystic
 
-Mystics are adventurers whose study of magical secrets has taught them how to cast spells: they are able to cast a larger number of increasingly powerful spells as they advance in level.
+Mystics are adventurers who, by innate gift or careful study, have gained the ability to cast spells: they are able to cast a larger number of increasingly powerful spells as they advance in level.
 
 # Requirements
 None.
