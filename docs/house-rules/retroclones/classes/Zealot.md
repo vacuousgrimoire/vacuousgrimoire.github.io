@@ -25,6 +25,7 @@ WIS.
 |12|675000|9d6+6*|6|4|5|7|9|8|
 |13|800000|9d6+8*|6|4|5|7|9|8|
 |14|925000|9d6+10*|7|3|5|7|8|7|
+
 - \* Modifiers from CON no longer apply. 
 # Armour
 A zealot can use leather armour, chainmail, and shields.

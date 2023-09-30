@@ -26,11 +26,15 @@ INT.
 |12|750000|9d4+3*|+4|9|10|9|12|9|
 |13|900000|9d4+4*|+5|8|9|8|11|9|
 |14|1050000|9d4+5*|+5|8|9|8|11|8|
+
 - \* Modifiers from CON no longer apply. 
+
 # Armour
 A mystic cannot use any armour or shields.
+
 # Weapons
 A mystic can use daggers, slings, and staves, and deals 1d4 damage with these weapons.
+
 # Magic
 ## Spell casting
 Mystics carry spell books containing the rituals for magical spells. The spellcasting progression table shows the number of spells they may prepare and cast each day, determined by the character’s experience level. 
