@@ -1,6 +1,10 @@
+---
+description: Mystics are adventurers who, by innate gift or careful study, have gained the ability to cast a selection of spells: as they advance in level, they gain further access to more powerful magic.
+---
+
 # Mystic
 
-Mystics are adventurers who, by innate gift or careful study, have gained the ability to cast spells: they are able to cast a larger number of increasingly powerful spells as they advance in level.
+Mystics are adventurers who, by innate gift or careful study, have gained the ability to cast a selection of spells: as they advance in level, they gain further access to more powerful magic.
 
 # Requirements
 None.
@@ -37,7 +41,7 @@ A mystic can use daggers, slings, and staves, and deals 1d4 damage with these we
 
 # Magic
 ## Spell casting
-Mystics carry spell books containing the rituals for magical spells. The spellcasting progression table shows the number of spells they may prepare and cast each day, determined by the character’s experience level. 
+Mystics carry spell books inscribed with magical spells. The spellcasting progression table shows the number of spells they may prepare and cast each day, determined by the character’s experience level. 
 
 | Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 
 | - | - | - | - | - | - | - |

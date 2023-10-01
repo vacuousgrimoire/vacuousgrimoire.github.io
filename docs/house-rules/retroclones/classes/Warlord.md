@@ -1,6 +1,10 @@
+---
+description: Warlords are adventurers who specialize in the art of war: their ferocious martial prowess inspires their party to strive the harder in battle.
+---
+
 # Warlord
 
-Warlords are adventurers who specialize in the arts of warfare: their ferocious martial prowess inspires their party to strive the harder in battle.
+Warlords are adventurers who specialize in the art of war: their ferocious martial prowess inspires their party to strive the harder in battle.
 
 # Requirements
 None.

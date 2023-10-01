@@ -1,3 +1,7 @@
+---
+description: Zealots are skillful adventurers driven by their fervent belief in a particular cause. Whether monster slayers, witchfinders, revolutionaries, or holy crusaders: zealots can accomplish remarkable feats through the power of that belief.
+---
+
 # Zealot
 
 Zealots are skillful adventurers driven by their fervent belief in a particular cause. Whether monster slayers, witchfinders, revolutionaries, or holy crusaders: zealots can accomplish remarkable feats through the power of that belief.
@@ -27,6 +31,7 @@ WIS.
 |14|925000|9d6+10*|+7|3|5|7|8|7|
 
 - \* Modifiers from CON no longer apply. 
+
 # Armour
 A zealot can use leather armour, chainmail, and shields.
 
