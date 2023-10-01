@@ -38,7 +38,7 @@ A warlord can use any weapons, and deals 1d8 damage with one-handed weapons or 1
 A warlord's hirelings have a +1 bonus to Leadership and Morale checks. At 6th level, this improves to a +2 bonus.
 
 # Combat Maneuver
-When a warlord hits a foe with an attack, they can attempt a combat maneuver. Some examples are listed below. If the target's HD exceeds the Champion's level, they are permitted a save vs. paralysis to resist this effect.
+When a warlord hits a foe with an attack, they can attempt a combat maneuver. Some examples are listed below. If the target's HD exceeds the Champion's level, they are permitted a save versus paralysis to resist this effect.
 
 - Disarm a foe
 - Immobilize a foe
@@ -49,4 +49,4 @@ When a warlord hits a foe with an attack, they can attempt a combat maneuver. So
 On an attack roll of 19-20, a warlord's attack deals maximum damage.
 
 # Fearless
-A warlord has a +2 bonus to saving throws against gear, and any allies within 10' have a +1 bonus.
+A warlord, and their allies within 10 ft, have a +1 bonus to saving throws against fear.
