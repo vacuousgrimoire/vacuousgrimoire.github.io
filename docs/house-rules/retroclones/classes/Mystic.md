@@ -1,5 +1,5 @@
 ---
-description: Mystics are adventurers who, by innate gift or careful study, have gained the ability to cast a selection of spells: as they advance in level, they gain further access to more powerful magic.
+description: Mystics are adventurers who, by innate gift or careful study, have gained the ability to cast a selection of spells; as they advance in level, they gain further access to more powerful magic.
 ---
 
 # Mystic

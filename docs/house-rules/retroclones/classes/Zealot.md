@@ -1,5 +1,5 @@
 ---
-description: Zealots are skillful adventurers driven by their fervent belief in a particular cause. Whether monster slayers, witchfinders, revolutionaries, or holy crusaders: zealots can accomplish remarkable feats through the power of that belief.
+description: Zealots are skillful adventurers driven by their fervent belief in a particular cause. Whether monster slayers, witchfinders, revolutionaries, or holy crusaders; zealots can accomplish remarkable feats through the power of that belief.
 ---
 
 # Zealot
