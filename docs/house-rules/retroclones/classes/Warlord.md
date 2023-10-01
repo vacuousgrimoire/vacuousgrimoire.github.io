@@ -1,10 +1,10 @@
 ---
-description: Warlords are adventurers who specialize in the art of war: their ferocious martial prowess inspires their party to strive the harder in battle.
+description: Warlords are adventurers who specialize in the art of war, dealing death to their foes with unparalleled acumen.
 ---
 
 # Warlord
 
-Warlords are adventurers who specialize in the art of war: their ferocious martial prowess inspires their party to strive the harder in battle.
+Warlords are adventurers who specialize in the art of war, dealing death to their foes with unparalleled acumen.
 
 # Requirements
 None.
@@ -38,11 +38,11 @@ A warlord can use any armour.
 # Weapons
 A warlord can use any weapons, and deals 1d8 damage with one-handed weapons or 1d10 damage with two-handed weapons.
 
-# Authority
-A warlord's hirelings have a +1 bonus to Leadership and Morale checks. At 6th level, this improves to a +2 bonus.
+# Cleave
+When a warlord kills a foe with an attack, they may make an additional attack. Each round, a warlord may only make one additional attack this way per level.
 
 # Combat Maneuver
-When a warlord hits a foe with an attack, they can attempt a combat maneuver. Some examples are listed below. If the target's HD exceeds the Champion's level, they are permitted a save versus paralysis to resist this effect.
+When a warlord hits a foe with an attack, they can attempt a combat maneuver to affect the target. Some examples are listed below. If the target's HD exceeds the Champion's level, they are permitted a save versus paralysis to resist this effect.
 
 - Disarm a foe
 - Immobilize a foe
@@ -51,6 +51,3 @@ When a warlord hits a foe with an attack, they can attempt a combat maneuver. So
 
 # Critical Strike
 On an attack roll of 19-20, a warlord's attack deals maximum damage.
-
-# Fearless
-A warlord, and their allies within 10 ft, have a +1 bonus to saving throws against fear.

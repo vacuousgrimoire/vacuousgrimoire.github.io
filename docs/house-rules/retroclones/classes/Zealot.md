@@ -7,7 +7,7 @@ description: Zealots are skillful adventurers driven by their fervent belief in 
 Zealots are skillful adventurers driven by their fervent belief in a particular cause. Whether monster slayers, witchfinders, revolutionaries, or holy crusaders: zealots can accomplish remarkable feats through the power of that belief.
 
 # Requirements
-None.
+A zealot cannot be of a neutral alignment.
 
 # Prime Requisite
 WIS.
@@ -39,9 +39,12 @@ A zealot can use leather armour, chainmail, and shields.
 A zealot can use one-handed weapons and crossbows, and deals 1d8 damage with these weapons.
 
 # Righteous Weapons
-A zealot's weapons can hit monsters that can normally only be harmed by silver.
+In the presence of undead, extraplanar beings, or powerful magic of an opposed alignment, a zealot's weapon glows with righteous light equivalent to a torch. A zealot's weapons can hit monsters that can normally only be harmed by silver.
 
 At 4th level or higher, a zealot's weapons can hit monsters that can normally only be harmed by magic.
+
+# Authority
+A zealot's hirelings and mercenaries have a +1 bonus to Leadership and Morale checks. At 6th level, this improves to a +2 bonus.
 
 # Lay on Hands
 Once per day, a zealot can heal 2 hit points per level by laying their hands on wounded characters. Additionally, a zealot of 6th level or higher may cure disease once per week by laying on hands.

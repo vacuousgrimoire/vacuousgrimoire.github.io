@@ -1,6 +1,6 @@
 # 1st
-- [[Grease]]
-- [[Light]]
+- Grease
+- Light
 - Wall of fog
 
 # 2nd
