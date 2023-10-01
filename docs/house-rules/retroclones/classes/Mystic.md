@@ -6,13 +6,13 @@ description: Mystics are adventurers who, by innate gift or careful study, have 
 
 Mystics are adventurers who, by innate gift or careful study, have gained the ability to cast a selection of spells: as they advance in level, they gain further access to more powerful magic.
 
-# Requirements
+## Requirements
 None.
 
-# Prime Requisite
+## Prime Requisite
 INT.
 
-# Level Progression
+## Level Progression
 
 |Level|XP|HD|ATK|Death|Wands|Paralysis|Breath Weapon|Spells|
 |---|---|---|---|---|---|---|---|---|
@@ -33,14 +33,14 @@ INT.
 
 - \* Modifiers from CON no longer apply. 
 
-# Armour
+## Armour
 A mystic cannot use any armour or shields.
 
-# Weapons
+## Weapons
 A mystic can use daggers, slings, and staves, and deals 1d4 damage with these weapons.
 
-# Magic
-## Spell casting
+## Magic
+### Spell casting
 Mystics carry spell books inscribed with magical spells. The spellcasting progression table shows the number of spells they may prepare and cast each day, determined by the character’s experience level. 
 
 | Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 
@@ -60,10 +60,10 @@ Mystics carry spell books inscribed with magical spells. The spellcasting progre
 | 13 | 4 | 4 | 4 | 3 | 3 | 3 |
 | 14 | 4 | 4 | 4 | 4 | 3 | 3 |
 
-## Spell list
+### Spell list
 The mystic, at 1st level, chooses two domains of magic from the following list. The two domains, together, make up the mystic's spell list. The mystic knows all spells on their spell list of each spell level they can prepare, as well as the spell *read magic*, which all mystics know.
 
-### Domains
+#### Domains
 - [[Creation]]
 - [[Death]]
 - [[Destruction]]
@@ -77,5 +77,5 @@ The mystic, at 1st level, chooses two domains of magic from the following list. 
 - [[Trickery]]
 - [[War]]
 
-## Magic items 
+### Magic items 
 Mystics are able to use magic scrolls of spells on their spell list. They can also use items that may only be used by either arcane or divine spell casters (e.g. magic wands, magic staves). 

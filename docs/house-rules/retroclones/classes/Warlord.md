@@ -6,13 +6,13 @@ description: Warlords are adventurers who specialize in the art of war, dealing 
 
 Warlords are adventurers who specialize in the art of war, dealing death to their foes with unparalleled acumen.
 
-# Requirements
+## Requirements
 None.
 
-# Prime Requisite
+## Prime Requisite
 STR.
 
-# Level Progression
+## Level Progression
 |Level|XP|HD|ATK|Death|Wands|Paralysis|Breath Weapon|Spells|
 |---|---|---|---|---|---|---|---|---|
 |1|0|      1d8|+1|12|13|14|15|16|
@@ -32,16 +32,16 @@ STR.
 
 - \* Modifiers from CON no longer apply. 
 
-# Armour
+## Armour
 A warlord can use any armour.
 
-# Weapons
+## Weapons
 A warlord can use any weapons, and deals 1d8 damage with one-handed weapons or 1d10 damage with two-handed weapons.
 
-# Cleave
+## Cleave
 When a warlord kills a foe with an attack, they may make an additional attack. Each round, a warlord may only make one additional attack this way per level.
 
-# Combat Maneuver
+## Combat Maneuver
 When a warlord hits a foe with an attack, they can attempt a combat maneuver to affect the target. Some examples are listed below. If the target's HD exceeds the Champion's level, they are permitted a save versus paralysis to resist this effect.
 
 - Disarm a foe
@@ -49,5 +49,5 @@ When a warlord hits a foe with an attack, they can attempt a combat maneuver to 
 - Knock a foe prone
 - Shove a foe
 
-# Critical Strike
+## Critical Strike
 On an attack roll of 19-20, a warlord's attack deals maximum damage.

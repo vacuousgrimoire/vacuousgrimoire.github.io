@@ -6,13 +6,13 @@ description: Zealots are skillful adventurers driven by their fervent belief in 
 
 Zealots are skillful adventurers driven by their fervent belief in a particular cause. Whether monster slayers, witchfinders, revolutionaries, or holy crusaders: zealots can accomplish remarkable feats through the power of that belief.
 
-# Requirements
+## Requirements
 A zealot cannot be of a neutral alignment.
 
-# Prime Requisite
+## Prime Requisite
 WIS.
 
-# Level Progression
+## Level Progression
 |Level|XP|HD|ATK|Death|Wands|Paralysis|Breath Weapon|Spells|
 |---|---|---|---|---|---|---|---|---|
 |1|0      |1d6|+0|11|12|14|16|15|
@@ -32,24 +32,24 @@ WIS.
 
 - \* Modifiers from CON no longer apply. 
 
-# Armour
+## Armour
 A zealot can use leather armour, chainmail, and shields.
 
-# Weapons
+## Weapons
 A zealot can use one-handed weapons and crossbows, and deals 1d8 damage with these weapons.
 
-# Righteous Weapons
+## Righteous Weapons
 In the presence of undead, extraplanar beings, or powerful magic of an opposed alignment, a zealot's weapon glows with righteous light equivalent to a torch. A zealot's weapons can hit monsters that can normally only be harmed by silver.
 
 At 4th level or higher, a zealot's weapons can hit monsters that can normally only be harmed by magic.
 
-# Authority
+## Authority
 A zealot's hirelings and mercenaries have a +1 bonus to Leadership and Morale checks. At 6th level, this improves to a +2 bonus.
 
-# Lay on Hands
+## Lay on Hands
 Once per day, a zealot can heal 2 hit points per level by laying their hands on wounded characters. Additionally, a zealot of 6th level or higher may cure disease once per week by laying on hands.
 
-# Tracking
+## Tracking
 Zealots can identify and follow tracks. This skill improves as the character gains levels (see table below). Success may be modified by the following factors:
 
 - **Soft/hard ground:** Increased by 1-in-6 or reduced by up to 3-in-6.
